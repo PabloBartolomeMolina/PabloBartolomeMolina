@@ -2,14 +2,14 @@
 
 ## Introduction
 
-I work on the automotive sector, developing C code for embedded projects, following standards like MISRA C and ISO26262. Also, I develop tools for automatization in Python, to ease the work of the team accross different activities of our daily work
-- Prepare the files for testing (binaries and source files) and debugging.
-- Data treatment under specific formats given by the project.
+I work on the automotive sector, developing C code for embedded projects, following standards like MISRA C and ISO26262. Also, I develop tools for automatization in Python and create AI Agents, to ease the work of the team accross different activities of our daily work.
 
-I also set up AI agents to automatize complex tasks of the work like the creation of MOCK functiona and the creation of Unit Tests, including:
+I also set up AI agents to automatize complex tasks of the daily workflow of the team, including:
 - Tests vectors for all possible combinations.
 - Ensure full coverage for C0, C1, and MC/DC.
 - Cover happy path and edge cases during the Unit Tests.
+- Data treatment under specific formats given by the project.
+- Reinforce quality levels of Pull Requests.
 
 Outside this professional summary, some relevant data about me:
 - 👀 I’m interested in autonomotive, aeronautics and railway sectors. 
